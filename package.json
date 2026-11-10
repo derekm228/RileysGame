@@ -1,0 +1,30 @@
+{
+  "name": "rileysgame",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekm228/RileysGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekm228/RileysGame/issues"
+  },
+  "homepage": "https://github.com/derekm228/RileysGame#readme",
+  "description": "Miraculous Ladybug - a 2D side-scrolling browser platformer",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.7"
+  },
+  "private": true,
+  "type": "module"
+}
